@@ -2,9 +2,9 @@ import express from "express"
 import cors from "cors"
 
 let students=[
-    {id:101,name:"hansha",age:22,phone:123456793},
-    {id:102,name:"nisha",age:23,phone:123456794},
-    {id:103,name:"arpita",age:24,phone:123458893},
+    {id:101,Name:"Hansha",age:22,phone:123456793},
+    {id:102,Name:"Nisha",age:23,phone:123456794},
+    {id:103,Name:"Arpita",age:24,phone:123458893},
 
 ];
 const app=express()
